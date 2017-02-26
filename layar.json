@@ -17,6 +17,82 @@
       "text": {
         "title": "Museo de los Pintores Oaxaqueños"
       }
-    }  ], 
+    },
+  {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.060710021345226, 
+          "lon": -96.72313174075737
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/Saguz/layar/master/2.jpg"
+      },
+      "id": 2, 
+      "text": {
+        "title": "Museo Textil de Oaxaca"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.065953689388266, 
+          "lon": -96.72161897487297
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/Saguz/layar/master/3.jpg"
+      },
+      "id": 3, 
+      "text": {
+        "title": "Museo de Filatelia de Oaxaca"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.06318956390757, 
+          "lon": -96.72427436179771
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/Saguz/layar/master/4.jpg"
+      },
+      "id": 4, 
+      "text": {
+        "title": "MUSEO DE ARTE CONTEMPORÁNEO DE OAXACA (MACO)"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.066010099686135, 
+          "lon": -96.72321757144584
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/Saguz/layar/master/5.jpg"
+      },
+      "id": 5, 
+      "text": {
+        "title": "Museo de las Culturas de Oaxaca, Santo Domingo"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.063384438659295, 
+          "lon": -96.7269565708126
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/Saguz/layar/master/5.jpg"
+      },
+      "id": 6, 
+      "text": {
+        "title": "Museo de Arte Prehispanico de México Rufino Tamayo"
+      }
+    },
+  ], 
   "layer": "museosoaxl8jw"
 }
